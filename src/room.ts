@@ -69,5 +69,9 @@ class Room {
         }        
     }
 
+    setExit(passage:Passage, dir:string) : void {
+        
+    }
+
 }
 

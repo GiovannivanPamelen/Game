@@ -14,7 +14,7 @@ class Printer {
     /**
      * Creates the printer object for the specified HTMLElement.
      * 
-     * @param output the HTMLElement to outpu to
+     * @param output the HTMLElement to output to
      */
     constructor(output : HTMLElement) {
         this.output = output;
